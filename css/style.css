@@ -78,6 +78,8 @@ table td, table th{
   padding: 10px;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
+  vertical-align: center;
   text-transform: uppercase;
   background-color: #7e0825;
 }
@@ -125,7 +127,8 @@ tbody tr:nth-child(even) {
 }
 
 tbody tr:hover{
-  background-color: rgba(193,34,88,0.25);
+  /* background-color: rgba(193,34,88,0.25); */
+  background-color: rgb(126,37,8);
 }
 
 
