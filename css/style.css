@@ -127,8 +127,7 @@ tbody tr:nth-child(even) {
 }
 
 tbody tr:hover{
-  /* background-color: rgba(193,34,88,0.25); */
-  background-color: rgb(126,37,8);
+  background-color: rgba(126,8,37,0.25);
 }
 
 
